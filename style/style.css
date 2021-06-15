@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body {
+    background-image: url(../images/background.png);
+    /* body 요소의 전체영역에 배경 이미지 적용 */
+    background-repeat: no-repeat;
+    /* 이미지 반복 x */
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    /* body 요소의 전체영역에 배경 이미지 적용 끝 */
+}
